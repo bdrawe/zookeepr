@@ -129,6 +129,33 @@
     },
     {
       "id": "13"
+    },
+    {
+      "name": "Alligator",
+      "species": "Reptile",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Lizard",
+      "species": "Reptile",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Bryce",
+      "species": "Lizard",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "16"
     }
   ]
 }
