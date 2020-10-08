@@ -35,7 +35,7 @@ const handleAnimalFormSubmit = event => {
     body: JSON.stringify(animalObject)
   })
     .then(response => {
-      if(response.ok){
+      if(response.ok) {
         return response.json();
       }
       alert('Error: ' + response.statusText);

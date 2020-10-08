@@ -156,6 +156,25 @@
         "zany"
       ],
       "id": "16"
+    },
+    {
+      "name": "Zion",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "goofy"
+      ],
+      "id": "17"
+    },
+    {
+      "name": "Zion",
+      "species": "Dog",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "18"
     }
   ]
 }
