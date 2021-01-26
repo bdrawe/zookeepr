@@ -12,7 +12,7 @@
 Animal logger where a user can search for Animals and Zookeepers. A user can also input new animals and Zookeepers. 
 
 ![Screenshot Home](./public/assets/images/home.png)
-![Screenshot Animal Dashboard](./public/assets/images/home.png)
+![Screenshot Animal Dashboard](./public/assets/images/animals.png)
 
 
 ## Link to Deployed Application on Heroku
