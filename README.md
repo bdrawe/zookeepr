@@ -34,4 +34,4 @@ Animal logger where a user can search for Animals and Zookeepers. A user can als
 
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
